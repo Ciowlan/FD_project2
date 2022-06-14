@@ -73,7 +73,7 @@ private FragmentTouristBinding binding;
         rv.addItemDecoration(new DividerItemDecoration(getContext(), DividerItemDecoration.VERTICAL));
         GetWebInfo dTask = new GetWebInfo();
         siteNames = new ArrayList<>();
-        dTask.execute("https://www.twtainan.net/data/shops_zh-tw.json");
+        dTask.execute("https://www.twtainan.net/data/attractions_zh-tw.json");
         return root;
     }
 
