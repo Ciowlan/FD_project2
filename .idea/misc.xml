@@ -3,14 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android Studio/FD_project2/app/src/main/res/drawable-v24/icon_bedroom_baby_24.xml" value="0.1" />
         <entry key="..\:/Android Studio/FD_project2/app/src/main/res/drawable/side_nav_bar.xml" value="0.1935" />
         <entry key="..\:/Android Studio/FD_project2/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
         <entry key="..\:/Android Studio/FD_project2/app/src/main/res/layout/app_bar_main.xml" value="0.13768115942028986" />
         <entry key="..\:/Android Studio/FD_project2/app/src/main/res/layout/content_main.xml" value="0.22826086956521738" />
         <entry key="..\:/Android Studio/FD_project2/app/src/main/res/layout/fragment_gallery.xml" value="0.22826086956521738" />
-        <entry key="..\:/Android Studio/FD_project2/app/src/main/res/layout/nav_header_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android Studio/FD_project2/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Android Studio/FD_project2/app/src/main/res/layout/fragment_regions.xml" value="0.24947916666666667" />
+        <entry key="..\:/Android Studio/FD_project2/app/src/main/res/layout/fragment_slideshow.xml" value="0.11955420466058764" />
+        <entry key="..\:/Android Studio/FD_project2/app/src/main/res/layout/fragment_tourist.xml" value="0.11955420466058764" />
+        <entry key="..\:/Android Studio/FD_project2/app/src/main/res/layout/myitem.xml" value="0.18478260869565216" />
+        <entry key="..\:/Android Studio/FD_project2/app/src/main/res/layout/myitem2.xml" value="0.536" />
+        <entry key="..\:/Android Studio/FD_project2/app/src/main/res/layout/nav_header_main.xml" value="0.42634315424610053" />
         <entry key="..\:/Android Studio/FD_project2/app/src/main/res/menu/activity_main_drawer.xml" value="0.24947916666666667" />
         <entry key="..\:/Android Studio/FD_project2/app/src/main/res/menu/main.xml" value="0.24947916666666667" />
+        <entry key="..\:/Android Studio/FD_project2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.196" />
+        <entry key="..\:/Android Studio/FD_project2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.196" />
       </map>
     </option>
   </component>

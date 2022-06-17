@@ -10,7 +10,7 @@ public class RegionsViewModel extends ViewModel {
 
     public RegionsViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("This is slideshow fragment");
+        mText.setValue("This is regions fragment");
     }
 
     public LiveData<String> getText() {

@@ -88,7 +88,8 @@ Thread mUiThread;
 
     private void initData() {
 
-        int[] i = new int[]{R.drawable.eight, R.drawable.mysta, R.drawable.nine, R.drawable.mysta};
+        int[] i = new int[]{R.drawable.tourist_one, R.drawable.tourist_two,
+                R.drawable.tourist_three, R.drawable.tourist_four, R.drawable.tourist_five};
         al = new ArrayList<ImageView>();
         for (int x = 0; x < i.length; x++) {
             ImageView iv = new ImageView(getContext());

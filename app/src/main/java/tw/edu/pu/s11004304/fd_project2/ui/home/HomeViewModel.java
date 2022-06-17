@@ -10,7 +10,7 @@ public class HomeViewModel extends ViewModel {
 
     public HomeViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("This is home fragment");
+        mText.setValue("台南是最受歡迎的旅遊城市之一，除了可以尋訪老城獨有的魅力，海線風景也十分迷人。");
     }
 
     public LiveData<String> getText() {

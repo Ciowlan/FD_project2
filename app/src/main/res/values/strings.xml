@@ -2,10 +2,10 @@
     <string name="app_name">FD_project2</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">訪客567</string>
+    <string name="nav_header_title">訪客5566</string>
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
-    <string name="action_renew">更新</string>
+    <string name="action_renew">想不到了╮（╯＿╰）╭</string>
 
     <string name="menu_home">首頁</string>
     <string name="menu_gallery">住宿</string>
@@ -13,4 +13,62 @@
     <string name="menu_regions">地區</string>
     <string name="menu_tourist">景點</string>
 
+    <string-array name="regions">
+        <item>北門區</item>
+        <item>將軍區</item>
+        <item>七股區</item>
+        <item>安南區</item>
+        <item>安平區</item>
+        <item>中西區</item>
+        <item>東區</item>
+        <item>北區</item>
+        <item>南區</item>
+        <item>仁德區</item>
+        <item>學甲區</item>
+        <item>佳里區</item>
+        <item>西港區</item>
+        <item>安定區</item>
+        <item>永康區</item>
+        <item>鹽水區</item>
+        <item>新營區</item>
+        <item>下營區</item>
+        <item>麻豆區</item>
+        <item>後壁區</item>
+        <item>柳營區</item>
+        <item>六甲區</item>
+        <item>官田區</item>
+        <item>善化區</item>
+        <item>新市區</item>
+        <item>新化區</item>
+        <item>大內區</item>
+        <item>山上區</item>
+        <item>歸仁區</item>
+        <item>關廟區</item>
+        <item>龍崎區</item>
+        <item>白河區</item>
+        <item>東山區</item>
+        <item>楠西區</item>
+        <item>玉井區</item>
+        <item>左鎮區</item>
+        <item>南化區</item>
+    </string-array>
+
+    <string-array name="hotel">
+        <item>愛客發商旅 中西區</item>
+        <item>達煦23旅店 中西區</item>
+        <item>楓華沐月飯店 南區</item>
+        <item>明洞 南區</item>
+        <item>塔木德酒店台南館 東區</item>
+        <item>台糖長榮酒店 東區</item>
+        <item>奇遇果人文旅店 北區</item>
+        <item>台南富信大飯店 北區</item>
+        <item>遇知 安平區</item>
+        <item>恩典之家民宿 玉井區</item>
+        <item>徠·歸仁旅店 歸仁區</item>
+        <item>西港外婆家民宿 西港區</item>
+        <item>南科讚美酒店 善化區</item>
+        <item>新大南科大飯店 新市區</item>
+        <item>欖人生態民宿 七股區</item>
+        <item>童鶴人家民宿 七股區</item>
+    </string-array>
 </resources>

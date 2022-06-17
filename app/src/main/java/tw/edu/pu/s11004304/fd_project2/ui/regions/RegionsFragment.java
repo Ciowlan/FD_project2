@@ -23,7 +23,6 @@ private FragmentRegionsBinding binding;
 
     binding = FragmentRegionsBinding.inflate(inflater, container, false);
     View root = binding.getRoot();
-
         final TextView textView = binding.textRegions;
         regionsViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
         return root;
